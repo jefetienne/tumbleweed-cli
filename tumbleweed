@@ -375,3 +375,5 @@ tumbleweed_$command ${args[@]}
 if [ "$install" == "1" ] ; then
   tumbleweed_install
 fi
+
+#test2
